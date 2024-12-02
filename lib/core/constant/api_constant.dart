@@ -1,5 +1,5 @@
 class APIConstant {
-  static const String apiKey = '8202ae76eb5d560f9fe77fdd05308420';
+  static const String apiKey = 'bfc79380021e0bb3aa1c81b1d2270474';
   static const String baseUrl = 'https://api.themoviedb.org/3';
 
   static const String baseImageURL = "https://image.tmdb.org/t/p/w500";
